@@ -227,7 +227,7 @@ a[href].direct-link:focus:visited,
 
 body {
   background-color: #fffaf0;
-    background-repeat: repeat;
+  background-repeat: repeat;
   padding: 10px;
 }
 
@@ -238,21 +238,6 @@ h1, h2, h3, body {
 .body-background {
   background-color: white;
 }
-
-.container {
-  margin: 60px auto;
-  max-width: 1200px;
-}
-
-.container-narrow {
-  max-width: 900px;
-}
-
-.folio-container {
-  margin: 6px auto;
-  max-width: 1000px;
-}
-
 
 h2 {
   display: block;
@@ -288,27 +273,9 @@ h4 {
   margin-bottom: 6px;
 }
 
-.italic {
-  font-style: italic;
-}
-
-.description {
-  font-size: .8em;
-}
-
-.author {
-  font-size: .7em;
-}
-
 li {
   font-size: 1em;
   margin-bottom: 20px;
-}
-
-.current-link {
-  background-color: black;
-  color: white;
-  padding: 3px 6px;
 }
 
 dt {
@@ -319,55 +286,11 @@ dd {
   margin-bottom: 10px;
 }
 
-.contact-info {
-  margin-top: 60px;
-}
 
 small {
   font-family: 'raisonne-demibold';
   display: block;
   margin-bottom: 10px;
-}
-
-small.date {
-  color: #9e9e9e;
-  margin-bottom: 40px;
-  text-decoration: initial;
-}
-
-@media screen  and (max-width: 600px) {
-
-  .container {
-    padding: 10px;
-    margin: 0;
-  }
-
-  body {
-    padding: 0;
-  }
-
-  .intro {
-    margin-top: 0;
-    display: block;
-  }
-
-  .flex-section-intro:last-of-type {
-    margin-top: 20px;
-    text-align: left;
-  }
-
-  .flex-section p {
-    display: none;
-  }
-}
-
-.bold {
-  font-weight: bold;
-}
-
-img, video {
-  max-width: 600px;
-  width: 100%;
 }
 
 ol {
@@ -378,89 +301,4 @@ ul {
   margin: 20px 0;
   padding; 0;
   list-style-type: none;
-}
-
-.secondary-text {
-  font-size: 1em;
-}
-
-.highlighted {
-  font-size: 1.4em;
-  line-height: 1.5;
-  font-weight: 800;
-}
-
-.link-list a, .link {
-  border-bottom: 1px solid black;
-  padding-bottom: 1px;
-}
-
-.none {
-  display: none;
-}
-
-@media screen  and (min-width: 1205px) {
-  h2, p, li {
-    font-size: 1.4em;
-  }
-
-  .floating-section {
-    margin-top: 20px;
-  }
-
-  p {
-    width: 88%;
-  }
-
-  footer {
-    text-align: center;
-    padding: 20px 20px 100px;
-    margin-top: 200px;
-  }
-
-  .container {
-    max-width: 1800px;
-    padding: 0 60px;
-  }
-}
-
-@media screen  and (max-width: 600px) {
-  nav a {
-    display: block;
-    background-color: black;
-    color: white;
-    margin-bottom: 20px;
-    padding: 30px;
-    text-decoration: none;
-  }
-}
-
-@media screen  and (min-width: 601px) {
-  nav a {
-    margin: 0 60px 0 0;
-    text-decoration: underline;
-  }
-
-   p {
-    max-width: 75%;
-   }
-}
-
-
-@media screen  and (min-width: 5000px) {
-  h1 {
-    font-size: 200px;
-  }
-
-  h2, p, li {
-    font-size: 4.5em;
-  }
-
-  .container {
-    max-width: 3500px;
-  }
-}
-
-nav {
-  margin-bottom: 20px;
 }
