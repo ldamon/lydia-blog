@@ -1,20 +1,20 @@
 {
-  "title": "Are blogs still a thing?",
-  "url": "https://lydiadamon.fun/blog",
+  "title": "Woman in [something]",
+  "url": "https://woman-in-something.netlify.app/",
   "description": "Life of a designer in tech slash comedian and writer",
   "feed": {
     "subtitle": "Life of a designer in tech slash comedian and writer",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://lydiadamon.fun/blog"
+    "id": "https://woman-in-something.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://lydiadamon.com/blog/feed/feed.json"
+    "url": "https://woman-in-something.netlify.app/feed/feed.json"
   },
   "author": {
     "name": "Lydia Damon",
     "email": "lydia.s.damon@gmail.com",
-    "url": "https://lydiadamon.fun/blog"
+    "url": "https://woman-in-something.netlify.app/"
   }
 }
