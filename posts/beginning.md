@@ -6,8 +6,8 @@ tags:
   - general
 layout: layouts/post.njk
 ---
-Yep.
+Not sure but I'm starting one! Lucky you. Lucky me. Lucky everyone.
 
-## Stuff!
+## Here goes nothing...
 
-Things.
+We'll see if I remember to post. 
