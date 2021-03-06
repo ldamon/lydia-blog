@@ -19,6 +19,8 @@
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
+        <li class="nav-item"><a href="http://www.lydiadamon.fun/media">Media</a></li>
+        <li class="nav-item"><a href="http://www.lydiadamon.fun/writing">Writing</a></li>
       </ul>
     </header>
 
