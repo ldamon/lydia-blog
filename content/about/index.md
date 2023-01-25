@@ -8,7 +8,7 @@ eleventyNavigation:
 
 I'm a designer who dabbles in comedy writing and art. 
 
-{% image "./pic.png", "A collage of pictures of me doing standup" %}
+{% image "./standup2.png", "A collage of pictures of me doing standup" %}
 
 
 Here are some accolades I got for screenwriting:
@@ -26,6 +26,7 @@ Here are some accolades I got for screenwriting:
 —The Black List evaluation
 
 
+
 *Fun Bags* - original pilot
 
 🏆 2021 Austin Film Festival Second Round
@@ -35,6 +36,7 @@ Here are some accolades I got for screenwriting:
 —Brent Forrester class evaluation
 
 
+
 *Big Mouth spec episode*
 
 🏆 2021 Austin Film Festival Second Round
@@ -42,6 +44,7 @@ Here are some accolades I got for screenwriting:
 > "You've really got a great handle on the comedic cut aways - that particular aspect of Big Mouth really compliments what you're great at."
 
 —Writers' group feedback
+
 
 
 **Features**
@@ -61,7 +64,7 @@ Here are some accolades I got for screenwriting:
 —First round competition feedback
 
 
-
+---
 
 
 
