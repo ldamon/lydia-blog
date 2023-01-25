@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: About
   order: 3
 ---
 # About Me
 
-I am a person that writes stuff.
+I'm a designer who dabbles in comedy writing and art. 
