@@ -8,6 +8,10 @@ eleventyNavigation:
 
 I'm a designer who dabbles in comedy writing and art. 
 
+
+{% image "./pic.png", "A collage of pictures of me doing standup" %}
+
+
 Here are some accolades I got for screenwriting:
 
 **TV Writing**
@@ -76,7 +80,7 @@ Here's some comedy writing that got me started:
 - Why I Redesign My Portfolio Every Year (Hint: It’s Because I Hate Myself)
 
 
-And some randome other writing:
+And some randome other writing:	
 
 **Hoodline**
 
