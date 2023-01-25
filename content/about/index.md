@@ -8,7 +8,7 @@ eleventyNavigation:
 
 I'm a designer who dabbles in comedy writing and art. 
 
-![A collage of pictures of me doing standup](pic.png)
+{% image "./pic.png", "A collage of pictures of me doing standup" %}
 
 
 Here are some accolades I got for screenwriting:
