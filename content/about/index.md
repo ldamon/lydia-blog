@@ -18,6 +18,7 @@ Here are some accolades I got for screenwriting:
 *Artful* - original pilot
 
 🏆 2021 ScreenCraft Screenwriting Fellowship Quarterfinalist
+
 🏆 2021 Launch Pad Pilot Competition Second Round
 
 > "This is a well-written, darkly comedic pilot that reads like an acerbic lampooning of Oakland hipster culture and Millennial entitlement…will remind readers of INGRID GOES WEST. There are various highlights throughout which demonstrate the project’s potential…”
@@ -60,7 +61,11 @@ Here are some accolades I got for screenwriting:
 —First round competition feedback
 
 
-Here's some comedy writing that got me started:
+
+
+
+
+Here's some humor writing that got me started:
 
 **Little Old Lady Comedy**
 - Women Who Are Already Hot are Opting for No Makeup on Their Wedding Day
