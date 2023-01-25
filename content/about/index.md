@@ -4,7 +4,7 @@ eleventyNavigation:
   key: About
   order: 3
 ---
-#About
+# About
 
 I'm a designer who dabbles in comedy, writing and art. 
 
