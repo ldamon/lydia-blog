@@ -24,7 +24,8 @@ I'm a designer who dabbles in comedy, writing and art.
 
 —The Black List evaluation
 
-
+</br>
+</br>
 
 
 *Fun Bags* - original pilot
@@ -35,7 +36,8 @@ I'm a designer who dabbles in comedy, writing and art.
 
 —Brent Forrester class evaluation
 
-
+</br>
+</br>
 
 
 *Big Mouth* – spec episode
@@ -46,13 +48,19 @@ I'm a designer who dabbles in comedy, writing and art.
 
 —Writers' group feedback
 
-
+</br>
+</br>
+</br>
+</br>
 
 **Features**
 
 *Look At Me Funny* - original feature
 
-
+</br>
+</br>
+</br>
+</br>
 
 **Short Stories**
 
@@ -64,9 +72,14 @@ I'm a designer who dabbles in comedy, writing and art.
 
 —First round competition feedback
 
+</br>
+</br>
+</br>
+</br>
+
 
 **Humor writing**
-⚠️ WARNING: This may make me seem completely unhinged...
+⚠️ WARNING: *The author was/is completely unhinged...*
 
 *Little Old Lady Comedy*
 - [Women Who Are Already Hot are Opting for No Makeup on Their Wedding Day](https://littleoldladycomedy.com/2018/04/26/women-who-are-already-hot-are-opting-for-no-makeup-on-their-wedding-day/)
