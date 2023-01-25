@@ -7,7 +7,6 @@ eleventyNavigation:
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(3) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = postsCount %}
