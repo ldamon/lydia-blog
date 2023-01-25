@@ -8,8 +8,12 @@ eleventyNavigation:
 
 I'm a designer who dabbles in comedy writing and art. 
 
-TV Writing
-"Artful" - original pilot
+Here are some accolades I got for screenwriting:
+
+**TV Writing**
+
+*"Artful"* - original pilot
+
 🏆 2021 ScreenCraft Screenwriting Fellowship Quarterfinalist
 
 🏆 2021 Launch Pad Pilot Competition Second Round
@@ -17,21 +21,31 @@ TV Writing
 “This is a well-written, darkly comedic pilot that reads like an acerbic lampooning of Oakland hipster culture and Millennial entitlement…will remind readers of INGRID GOES WEST. There are various highlights throughout which demonstrate the project’s potential…”
 
 —The Black List evaluation
-"Fun Bags" - original pilot
+
+---
+
+*"Fun Bags"* - original pilot
+
 🏆 2021 Austin Film Festival Second Round
 
 “This script has a well thought out, emotional foundation grounded in character and conflict...The first seven pages do a wonderful job of introducing us to the world and characters while deftly planting several seeds of conflict...This feels like a real group of friends.”
 
 —Brent Forrester class evaluation
-Big Mouth spec episode
+
+---
+
+*Big Mouth spec episode*
+
 🏆 2021 Austin Film Festival Second Round
 
 "You've really got a great handle on the comedic cut aways - that particular aspect of Big Mouth really compliments what you're great at."
 
 —Writers' group feedback
 
+---
 
-Features
+**Features**
+
 "Look At Me Funny" - original feature
 
 
@@ -43,30 +57,28 @@ Short Stories
 
 —First round competition feedback
 
+---
 
-Little Old Lady Comedy
-Women Who Are Already Hot are Opting for No Makeup on Their Wedding Day
-Goop-Recommended Products I Will Keep Using Even Though My Doctor Told Me They Definitely Don’t Work
-Vacation Me Met Real Me and Lived to Tell About It
-Review of ‘A Star is Born’ by a Woman Who Has Not Seen It
-Postmortem On The Brand’s April Fool’s Day Post
-Merriam Webster Updates the Definition of ‘Cave’ for 2018
-18 Things That Would Be Bad Enough to Get Me to Stop Shopping at Zara
-12 Power Moves for Women in the Workplace
+Here's some comedy writing that got me started:
 
-
-Medium
-A Day in the Life of a Silicon Valley Exec Who Awakens at Dusk to Suck Your Blood
-Why I Redesign My Portfolio Every Year (Hint: It’s Because I Hate Myself)
+**Little Old Lady Comedy**
+- Women Who Are Already Hot are Opting for No Makeup on Their Wedding Day
+- Goop-Recommended Products I Will Keep Using Even Though My Doctor Told Me They Definitely Don’t Work
+- Vacation Me Met Real Me and Lived to Tell About It
+- Review of ‘A Star is Born’ by a Woman Who Has Not Seen It
+- Postmortem On The Brand’s April Fool’s Day Post
+- Merriam Webster Updates the Definition of ‘Cave’ for 2018
+- 18 Things That Would Be Bad Enough to Get Me to Stop Shopping at Zara
+- 12 Power Moves for Women in the Workplace
 
 
-
-
-
+**Medium**
+- A Day in the Life of a Silicon Valley Exec Who Awakens at Dusk to Suck Your Blood
+- Why I Redesign My Portfolio Every Year (Hint: It’s Because I Hate Myself)
 
 
 Other Writing
 
+**Hoodline**
 
-Hoodline
-Homiey, a community-minded coworking space, opens in Fruitvale
+- Homiey, a community-minded coworking space, opens in Fruitvale
