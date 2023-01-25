@@ -15,7 +15,7 @@ Here are some accolades I got for screenwriting:
 
 **TV Writing**
 
-*"Artful"* - original pilot
+*Artful* - original pilot
 
 🏆 2021 ScreenCraft Screenwriting Fellowship Quarterfinalist
 🏆 2021 Launch Pad Pilot Competition Second Round
@@ -25,7 +25,7 @@ Here are some accolades I got for screenwriting:
 —The Black List evaluation
 
 
-*"Fun Bags"* - original pilot
+*Fun Bags* - original pilot
 
 🏆 2021 Austin Film Festival Second Round
 
@@ -45,12 +45,13 @@ Here are some accolades I got for screenwriting:
 
 **Features**
 
-"Look At Me Funny" - original feature
+*Look At Me Funny* - original feature
 
 
 
 **Short Stories**
-**"Grizzly Peak"**
+
+*"Grizzly Peak"*
 
 🏆 2021 NYC Midnight Short Story Challenge Quarterfinalist
 
