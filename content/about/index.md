@@ -9,6 +9,7 @@ eleventyNavigation:
 I'm a designer who dabbles in comedy, writing and art. 
 
 {% image "./standup2.png", "A collage of pictures of me doing standup" %}
+<small>That one time I got booked.</small>
 
 
 
@@ -26,7 +27,6 @@ I'm a designer who dabbles in comedy, writing and art.
 > —The Black List evaluation
 
 </br>
-</br>
 
 
 *Fun Bags* - original pilot
@@ -38,7 +38,6 @@ I'm a designer who dabbles in comedy, writing and art.
 
 > —Brent Forrester class evaluation
 
-</br>
 </br>
 
 
@@ -76,7 +75,6 @@ I'm a designer who dabbles in comedy, writing and art.
 
 > —First round competition feedback
 
-</br>
 </br>
 </br>
 </br>
