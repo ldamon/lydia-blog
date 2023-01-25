@@ -6,12 +6,11 @@ eleventyNavigation:
 ---
 # About
 
-I'm a designer who dabbles in comedy writing and art. 
+I'm a designer who dabbles in comedy, writing and art. 
 
 {% image "./standup2.png", "A collage of pictures of me doing standup" %}
 
 
-Here are some accolades I got for screenwriting:
 
 **TV Writing**
 
@@ -27,6 +26,7 @@ Here are some accolades I got for screenwriting:
 
 
 
+
 *Fun Bags* - original pilot
 
 🏆 2021 Austin Film Festival Second Round
@@ -37,7 +37,8 @@ Here are some accolades I got for screenwriting:
 
 
 
-*Big Mouth spec episode*
+
+*Big Mouth* – spec episode
 
 🏆 2021 Austin Film Festival Second Round
 
@@ -55,7 +56,7 @@ Here are some accolades I got for screenwriting:
 
 **Short Stories**
 
-*"Grizzly Peak"*
+"Grizzly Peak"
 
 🏆 2021 NYC Midnight Short Story Challenge Quarterfinalist
 
@@ -64,30 +65,27 @@ Here are some accolades I got for screenwriting:
 —First round competition feedback
 
 
----
+**Humor writing**
+⚠️ WARNING: This may make me seem completely unhinged...
+
+*Little Old Lady Comedy*
+- [Women Who Are Already Hot are Opting for No Makeup on Their Wedding Day](https://littleoldladycomedy.com/2018/04/26/women-who-are-already-hot-are-opting-for-no-makeup-on-their-wedding-day/)
+- [Goop-Recommended Products I Will Keep Using Even Though My Doctor Told Me They Definitely Don’t Work](https://littleoldladycomedy.com/2018/03/08/goop-recommended-products-i-will-keep-using-even-though-my-doctor-told-me-they-definitely-dont/)
+- [Vacation Me Met Real Me and Lived to Tell About It](https://littleoldladycomedy.com/2018/04/12/vacation-me-met-real-me-and-lived-to-tell-about-it/)
+- [Review of ‘A Star is Born’ by a Woman Who Has Not Seen It](https://littleoldladycomedy.com/2018/10/15/review-of-a-star-is-born-by-a-woman-who-has-not-seen-it/)
+- [Postmortem On The Brand’s April Fool’s Day Post](https://littleoldladycomedy.com/2019/04/02/postmortem-on-the-brands-april-fools-day-post/)
+- [Merriam Webster Updates the Definition of ‘Cave’ for 2018](https://littleoldladycomedy.com/2018/06/05/merriam-webster-updates-the-definition-of-cave-for-2018/)
+- [18 Things That Would Be Bad Enough to Get Me to Stop Shopping at Zara](hhttps://littleoldladycomedy.com/2018/02/21/18-things-that-would-be-bad-enough-to-get-me-to-stop-shopping-at-zara/)
+- [12 Power Moves for Women in the Workplace](https://littleoldladycomedy.com/2018/02/13/12-power-moves-for-women-in-the-workplace/)
 
 
-
-Here's some humor writing that got me started:
-
-**Little Old Lady Comedy**
-- Women Who Are Already Hot are Opting for No Makeup on Their Wedding Day
-- Goop-Recommended Products I Will Keep Using Even Though My Doctor Told Me They Definitely Don’t Work
-- Vacation Me Met Real Me and Lived to Tell About It
-- Review of ‘A Star is Born’ by a Woman Who Has Not Seen It
-- Postmortem On The Brand’s April Fool’s Day Post
-- Merriam Webster Updates the Definition of ‘Cave’ for 2018
-- 18 Things That Would Be Bad Enough to Get Me to Stop Shopping at Zara
-- 12 Power Moves for Women in the Workplace
+*Medium*
+- [A Day in the Life of a Silicon Valley Exec Who Awakens at Dusk to Suck Your Blood](https://medium.com/@lydiastory/a-day-in-the-life-of-a-silicon-valley-exec-who-awakens-at-dusk-to-suck-your-blood-8d229cefcb19?)
+- [Why I Redesign My Portfolio Every Year (Hint: It’s Because I Hate Myself)](https://blog.prototypr.io/why-i-redesign-my-portfolio-every-year-hint-its-because-i-hate-myself-434598ebbf7b?)
 
 
-**Medium**
-- A Day in the Life of a Silicon Valley Exec Who Awakens at Dusk to Suck Your Blood
-- Why I Redesign My Portfolio Every Year (Hint: It’s Because I Hate Myself)
+And some random other writing:	
 
+*Hoodline*
 
-And some randome other writing:	
-
-**Hoodline**
-
-- Homiey, a community-minded coworking space, opens in Fruitvale
+- [Homiey, a community-minded coworking space, opens in Fruitvale](https://hoodline.com/2019/06/homiey-a-community-minded-coworking-space-opens-in-fruitvale)
