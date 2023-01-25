@@ -21,7 +21,9 @@ I'm a designer who dabbles in comedy, writing and art.
 🏆 2021 Launch Pad Pilot Competition Second Round
 
 > "This is a well-written, darkly comedic pilot that reads like an acerbic lampooning of Oakland hipster culture and Millennial entitlement…will remind readers of INGRID GOES WEST. There are various highlights throughout which demonstrate the project’s potential…”
-—The Black List evaluation
+
+
+> —The Black List evaluation
 
 </br>
 </br>
@@ -32,7 +34,9 @@ I'm a designer who dabbles in comedy, writing and art.
 🏆 2021 Austin Film Festival Second Round
 
 > “This script has a well thought out, emotional foundation grounded in character and conflict...The first seven pages do a wonderful job of introducing us to the world and characters while deftly planting several seeds of conflict...This feels like a real group of friends.”
-—Brent Forrester class evaluation
+
+
+> —Brent Forrester class evaluation
 
 </br>
 </br>
@@ -43,7 +47,9 @@ I'm a designer who dabbles in comedy, writing and art.
 🏆 2021 Austin Film Festival Second Round
 
 > "You've really got a great handle on the comedic cut aways - that particular aspect of Big Mouth really compliments what you're great at."
-—Writers' group feedback
+
+
+> —Writers' group feedback
 
 </br>
 </br>
@@ -66,7 +72,9 @@ I'm a designer who dabbles in comedy, writing and art.
 🏆 2021 NYC Midnight Short Story Challenge Quarterfinalist
 
 > “This story is a breath of fresh air - a quirky and inventive tale that touches on everything from the world of tech and the California housing crisis to New Age insecurity and the offbeat notion of eavesdropping on others' thoughts through their diaries.”
-—First round competition feedback
+
+
+> —First round competition feedback
 
 </br>
 </br>
@@ -93,7 +101,7 @@ I'm a designer who dabbles in comedy, writing and art.
 - [Why I Redesign My Portfolio Every Year (Hint: It’s Because I Hate Myself)](https://blog.prototypr.io/why-i-redesign-my-portfolio-every-year-hint-its-because-i-hate-myself-434598ebbf7b?)
 
 
-And some random other writing:	
+**Other writing:**	
 
 *Hoodline*
 
