@@ -17,25 +17,26 @@ Here are some accolades I got for screenwriting:
 **TV Writing**
 
 *"Artful"* - original pilot
-🏆 2021 ScreenCraft Screenwriting Fellowship Quarterfinalist
-🏆 2021 Launch Pad Pilot Competition Second Round
 
-> This is a well-written, darkly comedic pilot that reads like an acerbic lampooning of Oakland hipster culture and Millennial entitlement…will remind readers of INGRID GOES WEST. There are various highlights throughout which demonstrate the project’s potential…”
+- 🏆 2021 ScreenCraft Screenwriting Fellowship Quarterfinalist
+- 🏆 2021 Launch Pad Pilot Competition Second Round
+
+> "This is a well-written, darkly comedic pilot that reads like an acerbic lampooning of Oakland hipster culture and Millennial entitlement…will remind readers of INGRID GOES WEST. There are various highlights throughout which demonstrate the project’s potential…”
 
 —The Black List evaluation
 
----
 
 *"Fun Bags"* - original pilot
+
 🏆 2021 Austin Film Festival Second Round
 
 > “This script has a well thought out, emotional foundation grounded in character and conflict...The first seven pages do a wonderful job of introducing us to the world and characters while deftly planting several seeds of conflict...This feels like a real group of friends.”
 
 —Brent Forrester class evaluation
 
----
 
 *Big Mouth spec episode*
+
 🏆 2021 Austin Film Festival Second Round
 
 > "You've really got a great handle on the comedic cut aways - that particular aspect of Big Mouth really compliments what you're great at."
