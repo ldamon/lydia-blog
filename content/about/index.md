@@ -53,13 +53,11 @@ I'm a designer who dabbles in comedy, writing and art.
 </br>
 </br>
 </br>
-</br>
 
 **Features**
 
 *Look At Me Funny* - original feature
 
-</br>
 </br>
 </br>
 </br>
@@ -98,6 +96,10 @@ I'm a designer who dabbles in comedy, writing and art.
 - [A Day in the Life of a Silicon Valley Exec Who Awakens at Dusk to Suck Your Blood](https://medium.com/@lydiastory/a-day-in-the-life-of-a-silicon-valley-exec-who-awakens-at-dusk-to-suck-your-blood-8d229cefcb19?)
 - [Why I Redesign My Portfolio Every Year (Hint: It’s Because I Hate Myself)](https://blog.prototypr.io/why-i-redesign-my-portfolio-every-year-hint-its-because-i-hate-myself-434598ebbf7b?)
 
+
+</br>
+</br>
+</br>
 
 **Other writing:**	
 
