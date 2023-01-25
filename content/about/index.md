@@ -11,6 +11,9 @@ I'm a designer who dabbles in comedy, writing and art.
 {% image "./standup2.png", "A collage of pictures of me doing standup" %}
 <small>That one time I got booked.</small>
 
+</br>
+</br>
+
 
 
 **TV Writing**
