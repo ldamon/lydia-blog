@@ -1,26 +1,12 @@
 ---
 title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+description: This is a post on my blog about agile frameworks.
+date: 2023-01-26
 tags:
-  - another tag
+  - design
+  - interior design
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Lately I've been obsessed with setting up my house. Especially the living room. I've spent hours scrolling Chairish, Etsy, 1st Dibs, Overstock, Anthropologie, Schoolhouse, and MORE! And for whatever reason, I keep gravitating toward White Lotus decorative accessories. Around the same time, I watched [this Instagram video](https://www.instagram.com/reel/Cly49papvdC/?utm_source=ig_web_copy_link_) from SNL's Chloe Fineman.
 
 ## Section Header
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```diff-js
- // this is a command
- function myCommand() {
-+  let counter = 0;
--  let counter = 1;
-   counter++;
- }
-
- // Test with a line break above this line.
- console.log('Test');
-```

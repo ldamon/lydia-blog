@@ -8,8 +8,8 @@ eleventyNavigation:
 
 I'm a designer who dabbles in comedy, writing and art. 
 
-{% image "./standup2.png", "A collage of pictures of me doing standup" %}
-<small>That one time I got booked.</small>
+{% image "./standup_me.png", "A collage of pictures of me doing standup" %}
+<small>"You see the thing about stuff is..".</small>
 
 </br>
 </br>
