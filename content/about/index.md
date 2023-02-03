@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Comedy
+  key: Comedy + Writing
   order: 3
 ---
 
