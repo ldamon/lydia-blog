@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About
+  key: Comedy
   order: 3
 ---
 
