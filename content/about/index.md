@@ -9,6 +9,7 @@ eleventyNavigation:
 I'm a designer who dabbles in comedy, writing and art. 
 
 {% image "./standup_me.png", "A picture of me doing standup" %}
+
 <small>You see the thing about stuff is...</small>
 
 </br>
