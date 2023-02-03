@@ -4,7 +4,6 @@ eleventyNavigation:
   key: About
   order: 3
 ---
-# About
 
 I'm a designer who dabbles in comedy, writing and art. 
 
@@ -15,6 +14,7 @@ I'm a designer who dabbles in comedy, writing and art.
 </br>
 </br>
 
+At one point, I was trying to crack into entertainment for real. And I actually got some traction! Check it out:
 
 
 **TV Writing**
