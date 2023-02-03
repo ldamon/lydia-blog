@@ -12,9 +12,6 @@ eleventyNavigation:
 </br>
 </br>
 
-At one point, I was trying to crack into entertainment for real. 
-And I actually got some traction! Check it out:
-
 
 **TV Writing**
 
