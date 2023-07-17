@@ -13,7 +13,7 @@ While I'm sad to say goodbye, I am excited to have built my portfolio, and proud
 - Plans page/checkout flow
 
 ### 2021
-- Redesigned the signup and first deploy flow
+- Signup and first deploy flow
 
 ### 2022
 - Maternity leave
@@ -21,7 +21,7 @@ While I'm sad to say goodbye, I am excited to have built my portfolio, and proud
 
 ### 2023
 - Enterprise trial
-- Signup onboarding redesign 2.0
+- Signup onboarding redesign
 - Communication surfaces research report
 
 Happy to talk about my experience IRL, but won't be sharing too many details here. Very grateful for my time at this exciting company, where I was able to expand and strengthen my experience with Growth practices and deepen my understanding of our developer customers. Onward!
