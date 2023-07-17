@@ -87,8 +87,8 @@ module.exports = function(eleventyConfig) {
 		});
 	});
 
-	// Copy `img/favicon/` to `_site/`
-	eleventyConfig.addPassthroughCopy({ "img/favicon": "/" });
+	// Favicon
+	 eleventyConfig.addPassthroughCopy("favicon.ico");
 
 	// Features to make your build faster (when you need them)
 
