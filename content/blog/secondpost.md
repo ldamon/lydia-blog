@@ -6,13 +6,7 @@ tags:
   - design
   - career
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-## Section Header
-
-<a href="/blog/firstpost/">First post</a>
-<a href="/blog/thirdpost/">Third post</a>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+After I got laid off, a colleague told me I “sounded chipper” over text. For better or worse, I process things through comedy (hence my brief standup career in the Bay Area). 
+What’s weird and a little cliché but I still want to say it is: I feel like I keep saying goodbye to versions of myself. Having my daughter. Leaving the Bay Area. Quitting various career switching dreams or side hustles. Moving to a smaller city. 
+I now live across the country in a new (if familiar) place. As neutral as I could be on my tech career, this job was the one thread still running through my pre-pregnant self into the current day. I would not say my job was my ultimate purpose, but I did love the people I worked with (and using parentheses in written communication). But I guess in the words of Natasha Bedingfield, the rest is still unwritten.
+Stay tuned! 

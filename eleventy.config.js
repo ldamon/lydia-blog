@@ -88,7 +88,7 @@ module.exports = function(eleventyConfig) {
 	});
 
 	// Favicon
-	 eleventyConfig.addPassthroughCopy("favicon.ico");
+	eleventyConfig.addPassthroughCopy("favicon.ico");
 
 	// Features to make your build faster (when you need them)
 
