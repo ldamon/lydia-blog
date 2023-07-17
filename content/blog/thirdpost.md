@@ -20,10 +20,11 @@ Here are some highlights:
 
 ### 2022
 - Maternity leave
-- Designed Guided onboarding for personalized activation
+- Designed "Guided Onboarding" for personalized activation
+- Designed Pro trial experience
 
 ### 2023
-- Designed experience fo Enterprise trial
+- Designed experience for Enterprise trial
 - Redesigned signup onboarding/first time user experience
 - Produced Communication Surfaces research report
 
