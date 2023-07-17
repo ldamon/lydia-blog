@@ -8,7 +8,7 @@ tags:
 ---
 After I got laid off, a colleague told me I “sounded chipper” over text. 
 
-While I definitely was not feeling happy in the least, I can see why I sounded less than devastated. For better or worse, I process things through comedy. (Hence my brief standup career in the Bay Area.)
+While I definitely was not feeling happy in the least, I can see why I sounded less than devastated. For better or worse, I process things through comedy. (Hence my brief, embarrassing standup career in the Bay Area.)
 
 A little cliché but I still want to say it: I feel like I keep saying goodbye to versions of myself. Having my daughter. Leaving the Bay Area. Quitting various career switching dreams or side hustles. Moving to a smaller city. 
 
