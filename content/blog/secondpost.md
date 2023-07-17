@@ -12,7 +12,7 @@ While I definitely was not feeling happy in the least, I can see why I sounded l
 
 A little cliché but I still want to say it: I feel like I keep saying goodbye to versions of myself. Having my daughter. Leaving the Bay Area. Quitting various career switching dreams or side hustles. Moving to a smaller city. 
 
-I now live across the country in a new (if familiar) place. Things have a different rhythm. As neutral as I could be on my tech career, this job was one of the last threads still running through my pre-pregnant self into the current day, and there was comfort in that. 
+I now live across the country in a new (if familiar) place. Things have a different (in most ways that matter, better) rhythm. As neutral as I could be on my tech career, this job was one of the last threads still running through my pre-pregnant self into the current day, and there was comfort in that. 
 
 My time at Netlify may be over, but I'm proud of the work I accomplished. I founded and stayed on the Growth team for my almost-3 years at the company. I loved the people I worked with. (And using parentheses in written communication.) 
 
