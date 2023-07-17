@@ -8,18 +8,18 @@ tags:
 ---
 While I'm sad to say goodbye, I am excited to have built my portfolio, and proud of the work I did while at Netlify. Here are some highlights:
 
-###2020
+### 2020
 - Founded the Growth team
 - Plans page/checkout flow
 
-###2021
+### 2021
 - Redesigned the signup and first deploy flow
 
-###2022
+### 2022
 - Maternity leave
 - Guided onboarding
 
-###2023
+### 2023
 - Enterprise trial
 - Signup onboarding redesign 2.0
 - Communication surfaces research report
