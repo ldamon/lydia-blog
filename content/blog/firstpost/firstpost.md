@@ -1,5 +1,5 @@
 ---
-title: White Lotus decorative accessories
+title: White Lotus Decorative Accessories
 description: Musing on making your house feel like luxury/Sicily.
 date: 2023-01-26
 tags:

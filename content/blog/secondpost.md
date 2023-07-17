@@ -1,5 +1,5 @@
 ---
-title: New beginnings
+title: New Beginnings
 description: Thoughts on moving onto the next chapter in my career.
 date: 2023-07-16
 tags:
