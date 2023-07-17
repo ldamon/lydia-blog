@@ -8,8 +8,6 @@ tags:
 ---
 While I'm sad to say goodbye, I'm excited to have built my portfolio, and proud of the work I did on the Growth/Design teams at Netlify. 
 
-Here are some highlights:
-
 ### 2020
 - Founded the Growth team
 - Redesigned plans page/checkout flow
@@ -21,6 +19,7 @@ Here are some highlights:
 ### 2022
 - Maternity leave
 - Designed "Guided Onboarding" for personalized activation
+- Designed feature-gated upgrade path for Pro plan
 - Designed Pro trial experience
 
 ### 2023
@@ -28,6 +27,6 @@ Here are some highlights:
 - Redesigned signup onboarding/first time user experience
 - Produced Communication Surfaces research report
 
-Happy to talk about my experience IRL, but won't be sharing too many details here. 
+Happy to talk about my experience IRL, but won't be sharing too many more details here. 
 Very grateful for my time at this exciting company, where I was able to expand and strengthen my experience with Growth practices and deepen my understanding of our developer customers. 
 Onward!
