@@ -88,7 +88,7 @@ module.exports = function(eleventyConfig) {
 	});
 
 	// Copy `img/favicon/` to `_site/`
-	eleventyConfig.addPassthroughCopy({" img/favicon-32x32.png")
+	eleventyConfig.addPassthroughCopy({" img/favicon-32x32.png");
 
 	// Features to make your build faster (when you need them)
 
