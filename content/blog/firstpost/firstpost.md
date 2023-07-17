@@ -17,7 +17,7 @@ Here are some of my finds:
 2. [Vintage Wicker Chair With Custom Upholstery](https://www.chairish.com/product/3563954/vintage-wicker-chair-with-custom-upholstery)
 3. [1950s Blue Wedgwood Fruit Bowl](https://www.chairish.com/product/3416787/1950s-blue-wedgwood-fruit-bowl)
 4. [1990s Pedestal With Round Glass Table](https://www.chairish.com/product/5066404/1990s-pedestal-with-round-glass-table)
-5. [https://www.chairish.com/product/5853347/homer-laughin-small-tureens-a-pair](https://www.chairish.com/product/5853347/homer-laughin-small-tureens-a-pair)
+5. [Homer Laughin Small Tureens - a Pair](https://www.chairish.com/product/5853347/homer-laughin-small-tureens-a-pair)
 6. [Egyptain Revival Upholstered Hand Carved Chaise Lounge](https://www.chairish.com/product/3252412/egyptain-revival-upholstered-hand-carved-chaise-lounge)
 7. [Les Ottomans Sicily Sculpture Handpainted Vases, Small, Set](https://www.chairish.com/product/id/4177562)
 8. [Mid-Century Italian Gold Gilt Grape and Leaf Wall Sconce Candle Holders - a Pair](https://www.chairish.com/product/2782948/mid-century-italian-gold-gilt-grape-and-leaf-wall-sconce-candle-holders-a-pair)

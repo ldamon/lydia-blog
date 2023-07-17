@@ -1,7 +1,7 @@
 ---
 title: New beginnings
 description: Thoughts on moving onto the next chapter in my career.
-date: 2023-07-04
+date: 2023-07-16
 tags:
   - design
   - career
