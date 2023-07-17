@@ -20,7 +20,7 @@ Here are some of my finds:
 5. [Homer Laughin Small Tureens - a Pair](https://www.chairish.com/product/5853347/homer-laughin-small-tureens-a-pair)
 6. [Egyptain Revival Upholstered Hand Carved Chaise Lounge](https://www.chairish.com/product/3252412/egyptain-revival-upholstered-hand-carved-chaise-lounge)
 7. [Les Ottomans Sicily Sculpture Handpainted Vases, Small, Set](https://www.chairish.com/product/id/4177562)
-8. [Mid-Century Italian Gold Gilt Grape and Leaf Wall Sconce Candle Holders - a Pair](https://www.chairish.com/product/2782948/mid-century-italian-gold-gilt-grape-and-leaf-wall-sconce-candle-holders-a-pair)
+8. [Mid-Century Italian Gold Gilt Grape and Leaf Wall Sconce Candle Holders](https://www.chairish.com/product/2782948/mid-century-italian-gold-gilt-grape-and-leaf-wall-sconce-candle-holders-a-pair)
 9. [Trematonia Medium Tapestry Cushion - Ebony](https://www.chairish.com/product/id/5256735)
 10. [Pair of 19th C Style Italian Architectural Landscape Paintings - the Plaza Hotel](https://www.chairish.com/product/6483104/19th-c-style-italian-architectural-landscape-paintings-a-pair)
 11. [Custom Upholstered Armless Accent Chair in Lee Jofa Print](https://www.chairish.com/product/id/3609139)
