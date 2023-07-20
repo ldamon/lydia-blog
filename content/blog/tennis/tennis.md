@@ -8,7 +8,7 @@ tags:
 ---
 One fun thing I've started doing is playing tennis. I had played as a kid for fun, but never really took to it...until now. Knee injuries aside, it's been the perfect thing for me lately. Camaraderie, a routine, getting out there, and reconnecting with my athletic side.
 
-Recently at practice the tuesday after the Wimbledon Mens' Final, my coach pointed out what he took away from the match:
+Recently at practice the Tuesday after the Wimbledon Mens' Final, my coach pointed out what he took away from the match:
 
 {% image "./points.png", "A collection of furniture and decorative accessories with Italian, opulent vibes" %}
 
