@@ -16,4 +16,4 @@ The difference between Alcaraz and Djokovic's final score was *two points*.
 Just two.
 2.
 
-So any time you're getting in your head about how you are losing, you're down, you suck, it's over, just remember, there's always the next point up for grabs. Just keep playing.
+So any time you're getting in your head about how you are losing, you're down, it's over, just remember, there's always the next point up for grabs. Just keep playing.
