@@ -10,7 +10,7 @@ One fun thing I've started doing is playing tennis. I had played as a kid for fu
 
 Recently at practice the Tuesday after the Wimbledon Mens' Final, my coach pointed out what he took away from the match:
 
-{% image "./points.png", "A collection of furniture and decorative accessories with Italian, opulent vibes" %}
+{% image "./points.png", "screenshot of the final stats for the Wimbledon Men's Final, showing Djokovic 166 points won and Alcaraz 168 points" %}
 
 The difference between Alcaraz and Djokovic's final score was *two points*. 
 Just two.
