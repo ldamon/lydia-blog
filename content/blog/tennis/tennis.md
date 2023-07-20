@@ -1,5 +1,5 @@
 ---
-title: 2 Points
+title: 2 Points 🎾
 description: Takeaway from the Wimbledon Men's Final.
 date: 2023-07-20
 tags:
