@@ -25,6 +25,7 @@ While I'm sad to say goodbye, I'm excited to have built my portfolio, and proud 
 ### 2023
 - Designed experience for Enterprise trial
 - Redesigned signup onboarding/first time user experience
+- Re-launched data-driven Design team newsletter
 - Produced Communication Surfaces research report
 
 Happy to talk about my experience IRL, but won't be sharing too many more details here. 
