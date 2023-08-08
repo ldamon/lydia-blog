@@ -6,7 +6,7 @@ tags:
   - fashion
   - surrealism
 ---
-If you see me this sumer, I am probably rocking one or both of these items.
+If you see me this summer, I am probably rocking one or both of these items.
 
 Fishy bag by [Don Fisher](https://don-fisher.com/):
 {% image "./fishy-bag.png", "fish-shaped fanny pack by Don Fisher" %}
