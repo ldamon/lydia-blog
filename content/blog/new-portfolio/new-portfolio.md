@@ -1,5 +1,5 @@
 ---
-title: New portfolio (who dis)
+title: New Portfolio (Who Dis)
 description: New portfolio designed in Readymag.
 date: 2023-08-07
 tags:
