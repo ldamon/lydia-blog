@@ -30,8 +30,7 @@ Anyway, all this to say, I maintain that my chosen summer accessiories, while so
 
 
 Links:
-["Schiaparelli's Couture Show Sparks Debate Over Use of Animal Heads" – Paper Mag](https://www.papermag.com/schiaparelli-animal-heads)
 
-[Fish fanny pack by Don Fisher](https://don-fisher.com/collections/fanny-packs/products/john-dory-adult)
-
-[Dog hair clips](https://www.etsy.com/listing/1526118167/french-acetate-dog-hair-clip-claw-fun)
+- ["Schiaparelli's Couture Show Sparks Debate Over Use of Animal Heads" – Paper Mag](https://www.papermag.com/schiaparelli-animal-heads)
+- [Fish fanny pack by Don Fisher](https://don-fisher.com/collections/fanny-packs/products/john-dory-adult)
+- [Dog hair clips](https://www.etsy.com/listing/1526118167/french-acetate-dog-hair-clip-claw-fun)
