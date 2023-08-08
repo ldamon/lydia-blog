@@ -22,7 +22,7 @@ I loved using Readymag and would definitely recommend it to any designer or crea
 
 <small>(I am not sponsored or anything, just genuinely liked it and wanted to share! My code is LYDIA123...JK LOL)</small>
 
-Check out my portfolio at [portfolio.lydiadamon.design](https://portfolio.lydiadamon.design)
+Check out my portfolio at [portfolio.lydiadamon.design](https://portfolio.lydiadamon.design)!
 
 *Password available on request.*
 
