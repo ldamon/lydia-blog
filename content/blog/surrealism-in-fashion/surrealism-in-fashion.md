@@ -29,7 +29,7 @@ For more on surrealism in fashion, see [Schiaparelli and Surrealism](https://art
 Say what you will about the lion head, but from an art historical perspective, the piece absolutely makes sense within the context of the brand. Boundary-pushing, and toeing the line between reality and artifice. (The hyperrealistic lion head is actually handmade in foam, wool and silk faux fur, then hand-painted.) It is at once the most real and most fake thing, which really speaks to our social media time, no?
 Daniel R. seems like a super smart guy, plus judging by how [he made risotto with Ina Garten](https://www.nytimes.com/2022/10/25/t-magazine/ina-garten-risotto-recipe.html), he is a cool person.
 
-Anyway, all this to say, I maintain that my chosen summer accessiories, while somewhat toddler-chic, are giving Fashion with a capital F, not wacky lady at the festival. Or maybe both and that's okay. 
+Anyway, all this to say, I maintain that my chosen summer accessories, while maybe just toddler-chic and I'm trying to elevate it, are giving Fashion with a capital F, not wacky lady at the festival. Or maybe both and that's okay. 
 
 
 Links:
